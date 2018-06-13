@@ -14,14 +14,16 @@ Summary: Determine the tectonic region of an earthquake (Subduction,Active,Volca
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/strec-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/strec-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/strec-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/strec-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/strec-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/strec-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/strec-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/strec-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/strec-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/strec-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/strec-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/strec-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/strec/badges/version.svg)](https://anaconda.org/conda-forge/strec)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/strec/badges/downloads.svg)](https://anaconda.org/conda-forge/strec)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-strec-green.svg)](https://anaconda.org/conda-forge/strec) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/strec.svg)](https://anaconda.org/conda-forge/strec) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/strec.svg)](https://anaconda.org/conda-forge/strec) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/strec.svg)](https://anaconda.org/conda-forge/strec) |
 
 Installing strec
 ================
