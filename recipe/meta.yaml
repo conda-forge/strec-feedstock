@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/usgs/strec/archive/{{ version }}.tar.gz
-  sha256: tar.gzbfc84db9f70096d08e69b50ca8593fc380d2e4c07a3c139295ff7620058c0a29
+  sha256: 4db9f70096d08e69b50ca8593fc380d2e4c07a3c139295ff7620058c0a29
 
 build:
   number: 0
