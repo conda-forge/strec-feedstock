@@ -14,9 +14,8 @@ Summary: Determine the tectonic region of an earthquake (Subduction,Active,Volca
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/strec-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/strec-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/strec-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/strec-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/strec-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/strec-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/strec-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/strec-feedstock)
 
 Current release info
 ====================
