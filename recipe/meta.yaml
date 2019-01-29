@@ -1,4 +1,4 @@
-{% set version = "2.1.3" %}
+{% set version = "2.1.4" %}
 
 package:
   name: strec
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/usgs/strec/archive/{{ version }}.tar.gz
-  sha256: 6e51f217419aec3910da2d83c5b1fc44212f387b7871f26cc1ec41afacc4a52a
+  sha256: 2761f7f2f7f4d821da5649412624fa80f22480b224287c92ca9e6b36ad0a9ef5
 
 build:
   noarch: python
@@ -16,10 +16,10 @@ build:
 
 requirements:
   build:
-    - python
+    - python>=3.6
     - pip
   run:
-    - python
+    - python>=3.6
     - fiona
     - libcomcat
     - mapio
