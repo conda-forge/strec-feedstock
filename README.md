@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About strec
 ===========
 
@@ -18,8 +14,17 @@ Summary: Determine the tectonic region of an earthquake (Subduction,Active,Volca
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/strec-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/strec-feedstock)
+
+<table><tr>
+    
+    <td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4359&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/strec-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
@@ -113,5 +118,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@cbworden](https://github.com/cbworden/)
+* [@emthompson-usgs](https://github.com/emthompson-usgs/)
 * [@mhearne-usgs](https://github.com/mhearne-usgs/)
 
