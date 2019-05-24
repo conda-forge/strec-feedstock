@@ -1,4 +1,4 @@
-{% set version = "2.1.5" %}
+{% set version = "2.1.6" %}
 
 package:
   name: strec
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/usgs/strec/archive/{{ version }}.tar.gz
-  sha256: a6f63d4838176ced0e5874d609165f3206702830de56c0dd3d6d3f29f8839128
+  sha256: 1a634494fa6fb61c50666a249acdb29135e9c42edfcd5d2ce83a0cc12669aa82
 
 build:
   noarch: python
