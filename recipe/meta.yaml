@@ -10,16 +10,16 @@ source:
 
 build:
   noarch: python
-  number: 0
+  number: 1
   noarch: python
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
   build:
-    - python>=3.6
+    - python >=3.6
     - pip
   run:
-    - python>=3.6
+    - python >=3.6
     - fiona
     - libcomcat
     - mapio
@@ -40,7 +40,7 @@ test:
 
 about:
   home: https://github.com/usgs/strec
-  license: Public Domain
+  license: CC-PDDC
   summary: 'Determine the tectonic region of an earthquake (Subduction,Active,Volcanic,Stable)'
   license_family: Public Domain
   license_file: LICENSE.md
